@@ -17,7 +17,7 @@
 -(void)setTheName:(NSString *)inpName andAge:(int)inpAge
 {
     name = inpName;
-    age = inpAge;
+    age = inpAge * 2;
 }
 
 -(void)printMe
