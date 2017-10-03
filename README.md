@@ -1,5 +1,3 @@
-# OOP-basics
-
 Today we covered the OOP and the use of classes and Objects. 
 
 We discussed how we use the OOP way to benefit from existing code as well as modularizing our code as opposed to procedural programming. 
@@ -42,4 +40,5 @@ IDE (integrated development environment) includes:
 
 Object Oriented Programming (OOP) as opposed to Procedural
 
-the code for today’s class can be found:
+the code for today’s class can be found: 
+https://github.com/AmirJahan/OOP-basics
